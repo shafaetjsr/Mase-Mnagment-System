@@ -1,0 +1,112 @@
+E:\asp\MSM\MSM\bin\MSM.dll.config
+E:\asp\MSM\MSM\bin\MSM.dll
+E:\asp\MSM\MSM\bin\MSM.pdb
+E:\asp\MSM\MSM\bin\roslyn\csc.exe
+E:\asp\MSM\MSM\bin\roslyn\csc.exe.config
+E:\asp\MSM\MSM\bin\roslyn\csc.rsp
+E:\asp\MSM\MSM\bin\roslyn\csi.exe
+E:\asp\MSM\MSM\bin\roslyn\csi.exe.config
+E:\asp\MSM\MSM\bin\roslyn\csi.rsp
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.Managed.Core.targets
+E:\asp\MSM\MSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\asp\MSM\MSM\bin\roslyn\System.AppContext.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Collections.Immutable.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Console.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\asp\MSM\MSM\bin\roslyn\System.IO.Compression.dll
+E:\asp\MSM\MSM\bin\roslyn\System.IO.FileSystem.dll
+E:\asp\MSM\MSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\asp\MSM\MSM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\asp\MSM\MSM\bin\roslyn\System.IO.Pipes.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Reflection.Metadata.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.AccessControl.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.Claims.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Security.Principal.Windows.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\asp\MSM\MSM\bin\roslyn\System.ValueTuple.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Xml.XmlDocument.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Xml.XPath.dll
+E:\asp\MSM\MSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\asp\MSM\MSM\bin\roslyn\vbc.exe
+E:\asp\MSM\MSM\bin\roslyn\vbc.exe.config
+E:\asp\MSM\MSM\bin\roslyn\vbc.rsp
+E:\asp\MSM\MSM\bin\roslyn\VBCSCompiler.exe
+E:\asp\MSM\MSM\bin\roslyn\VBCSCompiler.exe.config
+E:\asp\MSM\MSM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\asp\MSM\MSM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\asp\MSM\MSM\obj\Debug\MSM.csprojAssemblyReference.cache
+E:\asp\MSM\MSM\obj\Debug\MSM.csproj.CoreCompileInputs.cache
+E:\asp\MSM\MSM\obj\Debug\MSM.csproj.CopyComplete
+E:\asp\MSM\MSM\obj\Debug\MSM.dll
+E:\asp\MSM\MSM\obj\Debug\MSM.pdb
+E:\Asp net\MSM\MSM\bin\MSM.dll.config
+E:\Asp net\MSM\MSM\bin\MSM.dll
+E:\Asp net\MSM\MSM\bin\MSM.pdb
+E:\Asp net\MSM\MSM\bin\roslyn\csc.exe
+E:\Asp net\MSM\MSM\bin\roslyn\csc.exe.config
+E:\Asp net\MSM\MSM\bin\roslyn\csc.rsp
+E:\Asp net\MSM\MSM\bin\roslyn\csi.exe
+E:\Asp net\MSM\MSM\bin\roslyn\csi.exe.config
+E:\Asp net\MSM\MSM\bin\roslyn\csi.rsp
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Asp net\MSM\MSM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asp net\MSM\MSM\bin\roslyn\System.AppContext.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Collections.Immutable.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Console.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.IO.Compression.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.IO.FileSystem.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.IO.Pipes.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.AccessControl.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.Claims.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.ValueTuple.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Xml.XPath.dll
+E:\Asp net\MSM\MSM\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Asp net\MSM\MSM\bin\roslyn\vbc.exe
+E:\Asp net\MSM\MSM\bin\roslyn\vbc.exe.config
+E:\Asp net\MSM\MSM\bin\roslyn\vbc.rsp
+E:\Asp net\MSM\MSM\bin\roslyn\VBCSCompiler.exe
+E:\Asp net\MSM\MSM\bin\roslyn\VBCSCompiler.exe.config
+E:\Asp net\MSM\MSM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asp net\MSM\MSM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asp net\MSM\MSM\obj\Debug\MSM.csprojAssemblyReference.cache
+E:\Asp net\MSM\MSM\obj\Debug\MSM.csproj.CoreCompileInputs.cache
+E:\Asp net\MSM\MSM\obj\Debug\MSM.csproj.CopyComplete
+E:\Asp net\MSM\MSM\obj\Debug\MSM.dll
+E:\Asp net\MSM\MSM\obj\Debug\MSM.pdb
